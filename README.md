@@ -127,8 +127,7 @@ library(ggplot2)
 
 # Contact
 
-LinkedIn: *(Insert LinkedIn URL)*
-GitHub Repo: *(Insert GitHub Repo URL)*
+LinkedIn: https://www.linkedin.com/in/imran-qureshi25/
 Phone Number: 8607224490
 Email: [iqureshi1@pride.hofstra.edu](mailto:iqureshi1@pride.hofstra.edu)
 
