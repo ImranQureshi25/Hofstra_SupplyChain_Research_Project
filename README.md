@@ -59,17 +59,6 @@ Because of this, relying on reactive decision-making is no longer sufficient. Co
 
 ---
 
-# Results: What Drives Delay Severity in Global Supply Chains?
-
-* Geopolitical risk and weather severity were not as strong of predictors concerning whether a delay would occur, challenging common assumptions about their direct impact on delivery status.
-* Route type emerged as the most significant factor influencing the severity of delays, with the Suez Canal in particular acting as major bottlenecks for extended disruptions.
-* The type of disruption event, particularly geopolitical conflict, as well as key industries such as semiconductors and pharmaceuticals were key predictors in determining the appropriate mitigation strategy once a delay occurred.
-* Decision tree models provided clear, interpretable rules that distinguished between predicting delay occurrence, delay duration, and corrective actions with an 80-90% accuracy rate, matching or beating kNN results.
-
-
-
----
-
 # Discussion Implications
 
 * Companies already optimize for cost and efficiency, but they increasingly redesign logistics strategies by diversifying routes and reducing reliance on known bottlenecks such as the Suez Canal.
@@ -127,8 +116,7 @@ library(ggplot2)
 
 # Contact
 
-LinkedIn: *(Insert LinkedIn URL)*
-GitHub Repo: *(Insert GitHub Repo URL)*
+LinkedIn: https://www.linkedin.com/in/imran-qureshi25/
 Phone Number: 8607224490
 Email: [iqureshi1@pride.hofstra.edu](mailto:iqureshi1@pride.hofstra.edu)
 
