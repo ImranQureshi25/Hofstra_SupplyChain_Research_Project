@@ -1,7 +1,7 @@
 # Turning Supply Chain Chaos into Decisions: A Data-Driven Approach
 
 Student: Imran Qureshi
-Faculty Advisor: Dr. Yi-Chin Li
+Faculty Advisor: Dr. Yi-Chin Lin
 Frank G. Zarb School of Business, Hofstra University, Hempstead, NY 11549 
 
 ---
