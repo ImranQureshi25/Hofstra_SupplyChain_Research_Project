@@ -74,8 +74,8 @@ Because of this, relying on reactive decision-making is no longer sufficient. Co
 
 ## Languages & Platforms
 
-* R
 * Excel
+* R
 * Power BI
 
 ## R Libraries
@@ -114,6 +114,12 @@ library(ggplot2)
 
 ---
 
+# Data Usage and Licensing
+
+All data usage and analysis comply with the licensing terms of the dataset, including proper attribution and permitted use under Apache 2.0.
+
+---
+
 # Contact
 
 LinkedIn: https://www.linkedin.com/in/imran-qureshi25/
@@ -124,11 +130,7 @@ Email: [iqureshi1@pride.hofstra.edu](mailto:iqureshi1@pride.hofstra.edu)
 
 ---
 
-# References
+# Reference
 
 1. Uskono, B. M. (n.d.). *Global supply chain disruption and resilience* [Data set]. Kaggle.
-   [https://www.kaggle.com/datasets/bertnardomariouskono/global-supply-chain-disruption-and-resilience](https://www.kaggle.com/datasets/bertnardomariouskono/global-supply-chain-disruption-and-resilience)
-
-2. Bliss International Cargo Private Limited. (n.d.). *How geopolitical conflicts affect freight forwarding – and why flexibility is key* [Image]. LinkedIn.
-   [https://www.linkedin.com/pulse/how-geopolitical-conflicts-affect-freight-forwarding-dbgic/](https://www.linkedin.com/pulse/how-geopolitical-conflicts-affect-freight-forwarding-dbgic/)
-
+   [https://www.kaggle.com/datasets/bertnardomariouskono/global-supply-chain-disruption-and-resilience](https://www.kaggle.com/datasets/bertnardomariouskono/global-supply-chain-disruption-and-resilience). Licensed under the Apache License, Version 2.0.
