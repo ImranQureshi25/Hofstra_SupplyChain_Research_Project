@@ -114,9 +114,11 @@ library(ggplot2)
 
 ---
 
-# Data Usage and Licensing
-
-All data usage and analysis comply with the licensing terms of the dataset, including proper attribution and permitted use under Apache 2.0.
+## Data Source and License
+This project uses the *Global Supply Chain Disruption and Resilience* dataset by Bertnardo Mario Uskono, obtained from Kaggle: https://www.kaggle.com/datasets/bertnardomariouskono/global-supply-chain-disruption-and-resilience
+Copyright © Bertnardo Mario Uskono
+Licensed under the Apache License, Version 2.0.
+You may obtain a copy of the License at: http://www.apache.org/licenses/LICENSE-2.0
 
 ---
 
